@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author trashika
- *
- */
-module Sortingalgorithms {
-}
