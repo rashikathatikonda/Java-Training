@@ -6,4 +6,5 @@
  *
  */
 module JavaDemoProject {
+	requires java.xml.crypto;
 }
